@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any exiting project..
 - 🤔 I’m looking for help with JavaScript and Ruby..
 - 💬 Ask me about anything and I will find the answer for you..
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shubhscb)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
 - 😄 Pronouns: ['he','his'];
 - ⚡ Fun fact: I can wiggle my both ears at the same time..
 
