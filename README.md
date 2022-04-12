@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript..
 - 🌱 I’m currently learning Web Development..
-- 👯 I’m looking to collaborate on any exiting project..
+- 👯 I’m looking to collaborate on any exciting project..
 - 🤔 I’m looking for help with JavaScript and Ruby..
 - 💬 Ask me about anything and I will find the answer for you..
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
