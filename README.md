@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## A little more about me...
 
 
-- 🔭 I’m currently working on JavaScript..
+- 🔭 I’m currently working on Rails..
 - 🌱 I’m currently learning Web Development..
 - 👯 I’m looking to collaborate on any exciting project..
 - 🤔 I’m looking for help with JavaScript and Ruby..
