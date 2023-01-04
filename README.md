@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 ## A little more about me...
 
 
-- 🔭 I’m currently working on Rails..
+- 🌱 I’m a Full-Stack developer..
+- 👯 I’m currently looking for a job..
+- 🔭 I’m currently working on React, Redux, JavaScript, Ruby and Rails..
 - 🌱 I’m currently learning Web Development..
 - 👯 I’m looking to collaborate on any exciting project..
-- 🤔 I’m looking for help with JavaScript and Ruby..
+- 🤔 I’m looking for help to get a job..
 - 💬 Ask me about anything and I will find the answer for you..
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
 - 😄 Pronouns: ['he','his'];
