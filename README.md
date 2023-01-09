@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to get a job..
 - 💬 Ask me about anything and I will find the answer for you..
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
+- 📫 How to reach me: [Portfolio](https://shubh-dev-94040e.netlify.app/)
 - 😄 Pronouns: ['he','his'];
 - ⚡ Fun fact: I can wiggle my both ears at the same time..
 
