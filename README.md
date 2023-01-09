@@ -1,5 +1,5 @@
 ### Hi there, I'm Shubh Dev 👋
-#### I am Open to new opportunities 👯
+#### I am open to new opportunities 👯
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
