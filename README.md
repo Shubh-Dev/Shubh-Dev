@@ -1,5 +1,4 @@
 ### Hi there, I'm Shubh Dev 👋
-#### I am open to new opportunities 👯
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a Full-Stack developer.
-- 👯 I’m currently looking for an Web development job.
+- 👯 I’m currently open to work as a full-stack developer.
 - 🔭 I’m currently working on React, Redux, JavaScript, Ruby, PostgreSQL and Rails.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any exciting project.
