@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a Full-Stack developer.
-- 👯 I’m currently open to work as a full-stack developer.
-- 🔭 I’m currently working on React, Redux, JavaScript, Ruby, PostgreSQL and Rails.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently working for Phenomenal Technologies.
+- 👯 I’m not looking for new opportunities.
+- 🔭 I’m currently working on React, TypeScript, goLang, Fiber, and PostgreSQL.
 - 👯 I’m looking to collaborate on any exciting project.
-- 🤔 I’m looking for help to get a job.
+- 🤔 I’m looking for help with Fiber.
 - 💬 Ask me about anything and I will find the answer for you.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
 - 📫 How to reach me: [Portfolio](https://shubh-dev-94040e.netlify.app/)
