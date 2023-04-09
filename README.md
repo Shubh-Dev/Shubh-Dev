@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a Full-Stack developer.
-- 🌱 I’m currently working for Phenomenal Technologies.
+- 🌱 I’m currently working for Phenomenal Tech.
 - 👯 I’m not looking for new opportunities.
 - 🔭 I’m currently working on React, TypeScript, goLang, Fiber, and PostgreSQL.
 - 👯 I’m looking to collaborate on any exciting project.
