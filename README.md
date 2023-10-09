@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 🌱 I’m a Full-Stack developer.
 - 🌱 I’m currently working for Phenomenal Tech.
 - 👯 I’m not looking for new opportunities.
-- 🔭 I’m currently working on Vue, Nuxt3, React, TypeScript, goLang, Supabase, and PostgreSQL.
+- 🔭 I’m currently working on Vue, Nuxt3, React, Laravel, goLang, Supabase, PostgreSQL and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
 - 🤔 I’m looking for help with Fiber.
 - 💬 Ask me about anything and I will find the answer for you.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
 - 📫 How to reach me: [Portfolio](https://shubh-dev-94040e.netlify.app/)
-- 😄 Pronouns: ['he','his'];
+- 😄 Pronouns: ['he',' his'];
 - ⚡ Fun fact: I can wiggle my both ears at the same time.
 
 <hr>
