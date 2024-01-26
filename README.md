@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 <h3>Certificates</h3>
 <p align="left">
 <a href="https://www.credential.net/607b0a2c-bf56-41aa-8311-c5acf47fd21a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66351720" width="80"></a>
-
+<a href="https://www.credential.net/77a5aa7c-18c4-46a0-b49a-17fe58193bad"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55736254" width="80" style="max-width: 100%;"></a>
+<a href="https://www.credential.net/f01d75b4-7e03-46e3-a60c-af3e2f4ed3c4"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62389722" width="80" style="max-width: 100%;"></a>
 </p>
 
 
