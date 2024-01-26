@@ -72,6 +72,9 @@ Here are some ideas to get you started:
 <a href="https://www.credential.net/607b0a2c-bf56-41aa-8311-c5acf47fd21a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66351720" width="80"></a>
 <a href="https://www.credential.net/77a5aa7c-18c4-46a0-b49a-17fe58193bad"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55736254" width="80" style="max-width: 100%;"></a>
 <a href="https://www.credential.net/f01d75b4-7e03-46e3-a60c-af3e2f4ed3c4"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62389722" width="80" style="max-width: 100%;"></a>
+<a href="https://www.credential.net/e2a8c545-d582-4af1-9229-c047f0418b4f"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58587015" width="80" style="max-width: 100%;"></a>
+<a href="https://www.credential.net/436a2272-4377-45e1-b63a-62a4e86c443f"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50541740" width="80" style="max-width: 100%;"></a>
+<a href="https://www.credential.net/ddf7b1bb-c308-437a-b291-48314c0b20ea"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857806" width="80" style="max-width: 100%;"></a>
 </p>
 
 
