@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/shubh.m.das"><img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p> 
 
-<h3>Certificates</h3>
+<h3>Certificates:</h3>
 <p align="left">
 <a href="https://www.credential.net/607b0a2c-bf56-41aa-8311-c5acf47fd21a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66351720" width="80"></a>
 <a href="https://www.credential.net/77a5aa7c-18c4-46a0-b49a-17fe58193bad"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55736254" width="80" style="max-width: 100%;"></a>
