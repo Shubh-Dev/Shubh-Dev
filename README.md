@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <h3>Certificates</h3>
 <p align="left">
-<a href="https://www.credential.net/607b0a2c-bf56-41aa-8311-c5acf47fd21a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66351720"></a>
+<a href="https://www.credential.net/607b0a2c-bf56-41aa-8311-c5acf47fd21a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66351720" width="80"></a>
 
 </p>
 
