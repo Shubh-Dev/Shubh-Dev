@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a Full-Stack developer.
 - 🌱 I’m currently working for Phenomenal Tech.
-- 👯 I’m not looking for new opportunities.
+- 👯 I’m looking for new opportunities.
 - 🔭 I’m currently working on Vue, Nuxt3, React, Laravel, goLang, Supabase, PostgreSQL and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
 - 🤔 I’m looking for help with Fiber.
