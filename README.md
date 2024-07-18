@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a Full-Stack developer.
-- 🌱 I’m currently working for Phenomenal Tech.
+- 🌱 I’m currently working for https://www.hostinghome.in/.
 - 👯 I’m looking for new opportunities.
-- 🔭 I’m currently working on Vue, Nuxt3, React, Laravel, GoLang, Node.Js, Supabase, PostgreSQL and MySql.
+- 🔭 I’m currently working on  React, JavaScript, JQuery, Laravel, PHP, TailwindCss, and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
 - 🤔 I’m looking for help with Fiber.
 - 💬 Ask me about anything and I will find the answer for you.
