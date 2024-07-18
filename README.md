@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m a Full-Stack developer.
-- 🌱 I’m currently working for https://www.hostinghome.in/.
+- 🌱 I’m currently working for https://www.hostinghome.in/ as a Full-Stack Developer.
 - 👯 I’m looking for new opportunities.
 - 🔭 I’m currently working on  React, JavaScript, JQuery, Laravel, PHP, TailwindCss, and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
