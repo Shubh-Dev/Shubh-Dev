@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for new opportunities.
 - 🔭 I’m currently working on  React, JavaScript, JQuery, Laravel, PHP, TailwindCss, and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
-- 🤔 I’m looking for help with Fiber.
+- 🤔 I’m looking for help with Proxmox.
 - 💬 Ask me about anything and I will find the answer for you.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhscb/)
 - 📫 How to reach me: [Portfolio](https://shubh-dev-94040e.netlify.app/)
