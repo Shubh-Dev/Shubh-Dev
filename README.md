@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working for https://www.hostinghome.in/ as a Full-Stack Developer.
 - 🚀 I am developing, improving, automating products at HostingHome, focusing on innovation and creating cutting-edge solutions.
 - 👯 I’m looking for new opportunities.
-- 🔭 I’m currently working on  React, Node.js,  JavaScript, Laravel, PHP, TailwindCss, and MySql.
+- 🔭 I’m currently working on  Next.js, React, Node.js, TypeScipt, JavaScript, Laravel, PHP, TailwindCss, and MySql.
 - 👯 I’m looking to collaborate on any exciting project.
 - 🤔 I’m looking for help with Proxmox.
 - 💬 Ask me about anything and I will find the answer for you.
